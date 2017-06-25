@@ -1,0 +1,13 @@
+<button id="q">page 1</button>
+<div id="page"></div>
+<script>
+document.getElementById("q").addEventListener("click", function(){
+	var a = new XMLHttpRequest();
+	a.open("GET","page1.json",true);
+	a.onload = function(){
+	    var q = JSON.parse(this.responseText);
+	    document.getElementById("page").innerHTML = q['page'];
+	};
+	a.send(null);
+});
+</script>

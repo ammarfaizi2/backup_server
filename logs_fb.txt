@@ -1,0 +1,1307 @@
+{
+    "dt": "2017-06-22 17:09:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:09:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 17:10:2017",
+    "ip": "2a03:2880:1110:8fca:face:b00c:0000:8000",
+    "country": "US",
+    "ua": "facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "2a03:2880:1110:2fe8:face:b00c:0000:8000",
+    "country": "US",
+    "ua": "facebookexternalhit\/1.1",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "2a03:2880:1110:4fe9:face:b00c:0000:8000",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "2a03:2880:1020:9fe8:face:b00c:0000:8000",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit\/602.4.6 (KHTML, like Gecko) Version\/10.0 Mobile\/14D27 Safari\/602.1",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "199.16.157.183",
+    "country": "US",
+    "ua": "Twitterbot\/1.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "17.142.159.144",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit\/600.2.5 (KHTML, like Gecko) Version\/8.0.2 Safari\/600.2.5 (Applebot\/0.1; +http:\/\/www.apple.com\/go\/applebot)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "17.142.159.144",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit\/600.2.5 (KHTML, like Gecko) Version\/8.0.2 Safari\/600.2.5 (Applebot\/0.1; +http:\/\/www.apple.com\/go\/applebot)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "72.30.14.126",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (compatible; Yahoo! Slurp; http:\/\/help.yahoo.com\/help\/us\/ysearch\/slurp)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "198.27.82.205",
+    "country": "CA",
+    "ua": "LivelapBot\/0.2 (http:\/\/site.livelap.com\/crawler)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "198.27.82.205",
+    "country": "CA",
+    "ua": "LivelapBot\/0.2 (http:\/\/site.livelap.com\/crawler)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "144.76.22.3",
+    "country": "DE",
+    "ua": "Mozilla\/5.0 (X11; U; Linux i686; ru-RU; rv:1.9.2a1pre) Gecko\/20090405 Ubuntu\/9.04 (jaunty) Firefox\/3.6a1pre",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "144.76.22.166",
+    "country": "DE",
+    "ua": "Mozilla\/5.0 (X11; U; Linux x86_64; pt-BR; rv:1.9b5) Gecko\/2008041515 Firefox\/3.0b5",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "199.59.150.180",
+    "country": "US",
+    "ua": "Twitterbot\/1.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "23.96.208.137",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident\/6.0)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:11:2017",
+    "ip": "23.96.208.137",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident\/6.0)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:12:2017",
+    "ip": "51.255.66.118",
+    "country": "FR",
+    "ua": "Mozilla\/5.0 (compatible; AhrefsBot\/5.2; +http:\/\/ahrefs.com\/robot\/)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:12:2017",
+    "ip": "51.255.66.100",
+    "country": "FR",
+    "ua": "Mozilla\/5.0 (compatible; AhrefsBot\/5.2; +http:\/\/ahrefs.com\/robot\/)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "37.187.165.195",
+    "country": "FR",
+    "ua": "Mozilla\/5.0 (compatible; PaperLiBot\/2.1; http:\/\/support.paper.li\/entries\/20023257-what-is-paper-li)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "37.187.162.187",
+    "country": "FR",
+    "ua": "Mozilla\/5.0 (compatible; PaperLiBot\/2.1; http:\/\/support.paper.li\/entries\/20023257-what-is-paper-li)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "199.16.157.182",
+    "country": "US",
+    "ua": "Twitterbot\/1.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "72.30.14.126",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (compatible; Yahoo! Slurp; http:\/\/help.yahoo.com\/help\/us\/ysearch\/slurp)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "72.30.14.126",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (compatible; Yahoo! Slurp; http:\/\/help.yahoo.com\/help\/us\/ysearch\/slurp)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "72.30.14.126",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (compatible; Yahoo! Slurp; http:\/\/help.yahoo.com\/help\/us\/ysearch\/slurp)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "198.27.82.109",
+    "country": "CA",
+    "ua": "LivelapBot\/0.2 (http:\/\/site.livelap.com\/crawler)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "52.21.137.163",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/37.0.2062.94 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:15:2017",
+    "ip": "23.96.179.202",
+    "country": "US",
+    "ua": "Mozilla\/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident\/6.0)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:16:2017",
+    "ip": "144.76.23.11",
+    "country": "DE",
+    "ua": "Mozilla\/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.6pre) Gecko\/2009011606 Firefox\/3.1",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:16:2017",
+    "ip": "51.255.66.114",
+    "country": "FR",
+    "ua": "Mozilla\/5.0 (compatible; AhrefsBot\/5.2; +http:\/\/ahrefs.com\/robot\/)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:16:2017",
+    "ip": "51.255.66.118",
+    "country": "FR",
+    "ua": "Mozilla\/5.0 (compatible; AhrefsBot\/5.2; +http:\/\/ahrefs.com\/robot\/)",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:22:2017",
+    "ip": "45.121.218.226",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.0; ASUS_Z00AD Build\/LRX21V; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/58.0.3029.83 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.29.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:33:2017",
+    "ip": "107.167.122.77",
+    "country": "XX",
+    "ua": "Mozilla\/5.0 (Linux; U; Android 4.4.3;) AppleWebkit\/534.30 (KHTML, like Gecko) Version\/4.0 Mobile Safari\/534.30 Opera News\/1.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:58:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 17:59:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ammarfaizi2?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 17:59:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ammarfaizi2?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 18:00:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/home.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fprofile_timeline.php&refid=17"
+}
+
+{
+    "dt": "2017-06-22 18:00:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fprofile_timeline.php&refid=17"
+}
+
+{
+    "dt": "2017-06-22 18:00:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/story.php?story_fbid=1773761252653528&id=100000590125569&refid=17&_ft_=top_level_post_id.1773761252653528%3Atl_objid.1773761252653528%3Athid.100000590125569%3A306061129499414%3A2%3A0%3A1498892399%3A-4939481706608578701"
+}
+
+{
+    "dt": "2017-06-22 18:00:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": {
+        "fb_dtsg": "AQGQy3EPfN_A:AQFOBX7KUL_J",
+        "comment_text": "test"
+    },
+    "url": "https:\/\/m.facebook.com\/\/a\/comment.php?fs=8&fr=%2Fprofile.php&actionsource=13&comment_logging&ft_ent_identifier=1773761252653528&gfid=AQBynnx2nY-Sacir&_ft_=top_level_post_id.1773761252653528%3Atl_objid.1773761252653528%3Athid.100000590125569&av=100000590125569&refid=52"
+}
+
+{
+    "dt": "2017-06-22 18:00:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/story.php?story_fbid=1773761252653528&id=100000590125569&_rdr#1773791712650482"
+}
+
+{
+    "dt": "2017-06-22 18:00:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": {
+        "fb_dtsg": "AQH4bWCzmtBL:AQFCp_wmBIvs",
+        "comment_text": "anjay kok bisa ya :v"
+    },
+    "url": "https:\/\/m.facebook.com\/\/a\/comment.php?fs=8&actionsource=2&comment_logging&ft_ent_identifier=1773761252653528&gfid=AQAVrVcH8QdHLb72&av=100000590125569&refid=52"
+}
+
+{
+    "dt": "2017-06-22 18:00:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/story.php?story_fbid=1773761252653528&id=100000590125569&_rdr#1773792352650418"
+}
+
+{
+    "dt": "2017-06-22 18:01:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/home.php?ref_component=mbasic_home_logo&ref_page=%2Fwap%2Fprofile_timeline.php&refid=17"
+}
+
+{
+    "dt": "2017-06-22 18:01:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/home.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fprofile_timeline.php&refid=17"
+}
+
+{
+    "dt": "2017-06-22 18:02:2017",
+    "ip": "202.67.46.13",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 4.4.2; SM-G355H Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/129.0.0.18.67;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 18:05:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 18:05:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 18:06:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": {
+        "fb_dtsg": "AQFSRvBAPf70:AQGzeoyxEOms",
+        "privacyx": "300645083384735",
+        "target": "100000590125569",
+        "c_src": "feed",
+        "cwevent": "composer_entry",
+        "referrer": "feed",
+        "ctype": "inline",
+        "cver": "amber",
+        "rst_icv": "",
+        "xc_message": "gw jones :)",
+        "view_post": "Post"
+    },
+    "url": "https:\/\/m.facebook.com\/\/composer\/mbasic\/?av=100000590125569&refid=8"
+}
+
+{
+    "dt": "2017-06-22 18:06:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/home.php?s=100000590125569&sstr=1773795969316723&stype=s&postid=1773795969316723&gfid=AQCc3wYyNK0LORGT&_rdr"
+}
+
+{
+    "dt": "2017-06-22 18:07:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ammarfaizi2?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 18:07:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/story.php?story_fbid=1773795969316723&id=100000590125569&refid=17"
+}
+
+{
+    "dt": "2017-06-22 18:07:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/story.php?story_fbid=1773761252653528&id=100000590125569&refid=17&_ft_=top_level_post_id.1773761252653528%3Atl_objid.1773761252653528%3Athid.100000590125569%3A306061129499414%3A2%3A0%3A1498892399%3A-4939481706608578701"
+}
+
+{
+    "dt": "2017-06-22 18:07:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": {
+        "fb_dtsg": "AQHrGwD2mHzn:AQEUgFRow4R0",
+        "comment_text": "Bagi script om .-."
+    },
+    "url": "https:\/\/m.facebook.com\/\/a\/comment.php?fs=8&fr=%2Fprofile.php&actionsource=13&comment_logging&ft_ent_identifier=1773761252653528&gfid=AQBynnx2nY-Sacir&_ft_=top_level_post_id.1773761252653528%3Atl_objid.1773761252653528%3Athid.100000590125569&av=100000590125569&refid=52"
+}
+
+{
+    "dt": "2017-06-22 18:07:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/story.php?story_fbid=1773761252653528&id=100000590125569&_rdr#1773796979316622"
+}
+
+{
+    "dt": "2017-06-22 18:07:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/home.php?ref_component=mbasic_home_logo&ref_page=%2Fwap%2Fstory.php&refid=52"
+}
+
+{
+    "dt": "2017-06-22 18:07:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7"
+}
+
+{
+    "dt": "2017-06-22 18:08:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/?ref_component=mbasic_home_header&ref_page=MNotificationsController&refid=48"
+}
+
+{
+    "dt": "2017-06-22 18:08:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/buddylist.php?ref_component=mbasic_home_header&ref_page=MNotificationsController&refid=48"
+}
+
+{
+    "dt": "2017-06-22 18:08:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/read\/?fbid=100003011146563&click_type=buddylist&gfid=AQAHGGoO2NdFImfb#fua"
+}
+
+{
+    "dt": "2017-06-22 18:08:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/home.php?ref_component=mbasic_home_header&ref_page=MNotificationsController&refid=48"
+}
+
+{
+    "dt": "2017-06-22 18:09:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/stories.php?aftercursorr=1498129641%3A1498129641%3A6%3A2689809617209092076%3A1498125172%3A6434418076890836767&tab=h_nor&__m_log_async__=1&refid=7"
+}
+
+{
+    "dt": "2017-06-22 18:09:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/stories.php?aftercursorr=1498129561%3A1498129561%3A1%3A5133985025876084997%3A1498129593%3A6434418076890836767&tab=h_nor&__m_log_async__=1&refid=28"
+}
+
+{
+    "dt": "2017-06-22 18:09:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/stories.php?aftercursorr=1498129396%3A1498129396%3A15%3A9129879402697924369%3A1498123814%3A6434418076890836767&tab=h_nor&__m_log_async__=1&refid=28"
+}
+
+{
+    "dt": "2017-06-22 18:09:2017",
+    "ip": "112.215.170.67",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.110 Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/stories.php?aftercursorr=1498129265%3A1498129265%3A6%3A-8489051815569938967%3A1498128790%3A6434418424780139037&tab=h_nor&__m_log_async__=1&refid=28"
+}
+
+{
+    "dt": "2017-06-22 18:20:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 18:20:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ammarfaizi2?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 18:21:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/100000590125569\/allactivity?refid=17"
+}
+
+{
+    "dt": "2017-06-22 18:21:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/allactivity\/delete\/?profile_id=100000590125569&story_identifier=S%3A_I100000590125569%3A1773795969316723&ext=1498389663&hash=AeS3gD6nv4rDAY4q"
+}
+
+{
+    "dt": "2017-06-22 18:21:2017",
+    "ip": "125.166.235.197",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; Xiaomi Redmi 3S Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/id_ID;FBAV\/43.0.0.7.68;]",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/100000590125569\/allactivity?success=1&action=delete&hash=AcKbKxLG5QgdQpjL&_rdr"
+}
+
+{
+    "dt": "2017-06-22 18:28:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 18:28:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/buddylist.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 18:29:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/read\/?fbid=100003011146563&click_type=buddylist&gfid=AQAHGGoO2NdFImfb#fua"
+}
+
+{
+    "dt": "2017-06-22 21:24:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 21:24:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 22:17:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 22:17:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 22:17:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ammarfaizi2?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/pages\/?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fprofile_timeline.php&refid=17"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=XPagesBrowserController"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/home.php?ref_component=mbasic_home_header&ref_page=MNotificationsController&refid=48"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/groups\/489832364541639?view=permalink&id=722010667990473&refid=7&_ft_=qid.6434482488657888699%3Amf_story_key.-223950485869977646"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/reactions\/picker\/?ft_id=722010667990473&origin_uri=https%3A%2F%2Fm.facebook.com%2Fgroups%2F489832364541639%3Fview%3Dpermalink%26id%3D722010667990473%26refid%3D7%26_ft_%3Dqid.6434482488657888699%253Amf_story_key.-223950485869977646&av=100000590125569&refid=18"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ufi\/reaction\/?ft_ent_identifier=722010667990473&reaction_type=4&basic_origin_uri=https%3A%2F%2Fm.facebook.com%2Fgroups%2F489832364541639%3Fview%3Dpermalink%26id%3D722010667990473%26refid%3D7%26_ft_%3Dqid.6434482488657888699%253Amf_story_key.-223950485869977646&av=100000590125569&_ft_&ext=1498403929&hash=AeRXrVoLavuBmiM3"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/groups\/489832364541639?view=permalink&id=722010667990473&refid=7&_ft_=qid.6434482488657888699:mf_story_key.-223950485869977646&fbt_id=722010667990473&lul&_rdr"
+}
+
+{
+    "dt": "2017-06-22 22:18:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/groups\/489832364541639?view=permalink&id=722010667990473&p=10&av=100000590125569&refid=18"
+}
+
+{
+    "dt": "2017-06-22 22:19:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/groups\/489832364541639?view=permalink&id=722010667990473&p=20&av=100000590125569&refid=18"
+}
+
+{
+    "dt": "2017-06-22 22:19:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/groups\/489832364541639?view=permalink&id=722010667990473&p=10&av=100000590125569&refid=18"
+}
+
+{
+    "dt": "2017-06-22 22:19:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/comment\/replies\/?ctoken=722010667990473_722012511323622&count=2&curr&pc=1&ft_ent_identifier=722010667990473&gfid=AQBi2w4vLz5GKyEZ&refid=18&__tn__=R"
+}
+
+{
+    "dt": "2017-06-22 22:20:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/comment\/replies\/?ctoken=722010667990473_722013104656896&count=1&curr&pc=1&ft_ent_identifier=722010667990473&gfid=AQBMR1rfLKYu-NjC&refid=18&__tn__=R"
+}
+
+{
+    "dt": "2017-06-22 22:20:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/groups\/489832364541639?view=permalink&id=722010667990473&p=0&av=100000590125569&refid=18"
+}
+
+{
+    "dt": "2017-06-22 22:20:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/comment\/replies\/?ctoken=722010667990473_722014937990046&count=3&curr&pc=1&ft_ent_identifier=722010667990473&gfid=AQDbc_QOrwEbGf4b&refid=18&__tn__=R"
+}
+
+{
+    "dt": "2017-06-22 22:20:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ammarfaizi2?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fprofile_tribe.php&refid=18"
+}
+
+{
+    "dt": "2017-06-22 22:21:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fprofile_timeline.php&refid=17"
+}
+
+{
+    "dt": "2017-06-22 22:21:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/buddylist.php?ref_component=mbasic_home_header&ref_page=MNotificationsController&refid=48"
+}
+
+{
+    "dt": "2017-06-22 22:21:2017",
+    "ip": "114.124.200.249",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/read\/?fbid=100007496914882&click_type=buddylist&gfid=AQBdmON1ubAjGZyN#fua"
+}
+
+{
+    "dt": "2017-06-23 01:03:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": {
+        "fb_dtsg": "AQHHs3Yjm2a-:AQF_YMLSibUr",
+        "approve": "Add to Timeline"
+    },
+    "url": "https:\/\/m.facebook.com\/\/a\/tagapproval.php?cid=id_594bf1b045cca1650670629&fbid=316422255447155&tag_type=mentions%3Auser&targetID=100000590125569"
+}
+
+{
+    "dt": "2017-06-23 01:03:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/ammarfaizi2?v=approval&edit_success=1&action=allow&action_fbid=316422255447155&hash=AcLX3WONjTBcRmUS&_rdr"
+}
+
+{
+    "dt": "2017-06-23 01:07:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/ammarfaizi2?ref_component=mbasic_home_header&ref_page=MPostApprovalController"
+}
+
+{
+    "dt": "2017-06-23 01:08:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/melliham.pebrianco?fref=nf&pn_ref=story&refid=17&_ft_=top_level_post_id.316422255447155%3Atl_objid.316422255447155%3Athid.100000590125569%3A306061129499414%3A10%3A0%3A1498892399%3A5963752542371956130&__tn__=C"
+}
+
+{
+    "dt": "2017-06-23 01:08:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/profile\/picture\/view\/?profile_id=100012381488176&refid=17"
+}
+
+{
+    "dt": "2017-06-23 01:08:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/melliham.pebrianco\/photos?lst=100000590125569%3A100012381488176%3A1498154926&refid=17"
+}
+
+{
+    "dt": "2017-06-23 01:09:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/melliham.pebrianco\/albums\/111863379236378\/"
+}
+
+{
+    "dt": "2017-06-23 01:09:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/story.php?story_fbid=316570152099032&id=100012381488176&refid=17&_ft_=top_level_post_id.316570152099032%3Atl_objid.316570152099032%3Athid.100012381488176%3A306061129499414%3A2%3A0%3A1498892399%3A657951132158247864"
+}
+
+{
+    "dt": "2017-06-23 01:09:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": {
+        "fb_dtsg": "AQGKqXN4JFdM:AQEw_9xHC3nY",
+        "comment_text": "Tobat.com"
+    },
+    "url": "https:\/\/m.facebook.com\/\/a\/comment.php?fs=8&fr=%2Fprofile.php&actionsource=13&comment_logging&ft_ent_identifier=316570152099032&gfid=AQBI0P3Xu5Qrfxd2&_ft_=top_level_post_id.316570152099032%3Atl_objid.316570152099032%3Athid.100012381488176&av=100000590125569&refid=52"
+}
+
+{
+    "dt": "2017-06-23 01:09:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/story.php?story_fbid=316570152099032&id=100012381488176&_rdr#316744355414945"
+}
+
+{
+    "dt": "2017-06-23 01:09:2017",
+    "ip": "114.124.238.223",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/melliham.pebrianco?sectionLoadingID=m_timeline_loading_div_1498892399_0_36_timeline_unit%3A1%3A00000000001498113461%3A04611686018427387904%3A09223372036854775803%3A04611686018427387904&unit_cursor=timeline_unit%3A1%3A00000000001498113461%3A04611686018427387904%3A09223372036854775803%3A04611686018427387904&lst=100000590125569%3A100012381488176%3A1498154926&timeend=1498892399&timestart=0&tm=AQAi-yWYyP_rraQF&refid=17"
+}
+
+{
+    "dt": "2017-06-23 04:20:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-23 04:20:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-23 04:20:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/a\/notifications.php?redir=%2Fcheckpoint%2Fflow%2F%3Falt%3D%252Flogin%252Fapprovals%252Fcleared%26flow%3D193593390684083&seennotification=1498166427934740&gfid=AQA5d6Z-y1eKZUqj&refid=48"
+}
+
+{
+    "dt": "2017-06-23 04:20:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/checkpoint\/flow\/?alt=\/login\/approvals\/cleared&flow=193593390684083&_rdr"
+}
+
+{
+    "dt": "2017-06-23 04:20:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": {
+        "fb_dtsg": "AQGqr7gswr5a:AQH9CgWCfYq2",
+        "submit": {
+            "Continue": "Continue"
+        },
+        "nh": "9de8568c3db2fed29b231e103782f25d45f4c9fe"
+    },
+    "url": "https:\/\/m.facebook.com\/\/checkpoint\/flow\/?checkpoint_created=1&checkpoint_data=%7B%22u%22%3A100000590125569%2C%22t%22%3A1498166450%2C%22step%22%3A4%2C%22n%22%3A%2213qqazrNkOI%3D%22%2C%22inst%22%3A%221774304379265882%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22p%22%2C%22aid%22%3A%22Y%2BcQ%5C%2FwihViU%3D%22%2C%22s%22%3A%22AWUHCwF5RwmJ-aNG%22%2C%22cs%22%3A%5B%5D%7D"
+}
+
+{
+    "dt": "2017-06-23 04:20:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": {
+        "fb_dtsg": "AQFXkz_M7SZF:AQGYegqz_yB3",
+        "submit": {
+            "This was me": "This Was Me"
+        },
+        "nh": "9de8568c3db2fed29b231e103782f25d45f4c9fe"
+    },
+    "url": "https:\/\/m.facebook.com\/\/checkpoint\/flow\/?checkpoint_created=1&checkpoint_data=%7B%22u%22%3A100000590125569%2C%22t%22%3A1498166450%2C%22step%22%3A5%2C%22n%22%3A%2213qqazrNkOI%3D%22%2C%22inst%22%3A%221774304379265882%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22p%22%2C%22aid%22%3A%22Y%2BcQ%5C%2FwihViU%3D%22%2C%22s%22%3A%22AWXQB6GYKaldbN6y%22%2C%22cs%22%3A%5B%5D%7D"
+}
+
+{
+    "dt": "2017-06-23 04:20:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": {
+        "fb_dtsg": "AQFyBpuo1ug4:AQFMk-CH_ZPr",
+        "name_action_selected": "dont_save",
+        "submit": {
+            "Continue": "Continue"
+        },
+        "nh": "9de8568c3db2fed29b231e103782f25d45f4c9fe"
+    },
+    "url": "https:\/\/m.facebook.com\/\/checkpoint\/flow\/?checkpoint_created=1&checkpoint_data=%7B%22u%22%3A100000590125569%2C%22t%22%3A1498166450%2C%22step%22%3A23%2C%22n%22%3A%2213qqazrNkOI%3D%22%2C%22inst%22%3A%221774304379265882%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22p%22%2C%22aid%22%3A%22Y%2BcQ%5C%2FwihViU%3D%22%2C%22s%22%3A%22AWVaTUZifoawv2gQ%22%2C%22cs%22%3A%5B%5D%7D"
+}
+
+{
+    "dt": "2017-06-23 04:21:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/home.php?_rdr"
+}
+
+{
+    "dt": "2017-06-23 04:25:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7"
+}
+
+{
+    "dt": "2017-06-23 04:25:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (X11; Ubuntu; Linux i686; rv:46.0) Gecko\/20100101 Firefox\/46.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/read\/?tid=mid.1482251495117%3A8e34776c44&gfid=AQCl5GkxFNj3rGXI&ref_component=mbasic_home_header&ref_page=MNotificationsController&refid=48#fua"
+}
+
+{
+    "dt": "2017-06-23 16:44:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/a\/notifications.php?redir=%2Fcheckpoint%2Fflow%2F%3Falt%3D%252Flogin%252Fapprovals%252Fcleared%26flow%3D193593390684083&seennotification=1498210686704837&gfid=AQBVkABSoOUHgOyu&refid=48"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/checkpoint\/flow\/?alt=\/login\/approvals\/cleared&flow=193593390684083&_rdr"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": {
+        "fb_dtsg": "AQE8Lxzb9gL2:AQH7V4nTNzb9",
+        "submit": {
+            "Continue": "Continue"
+        },
+        "nh": "5486d3cce883ef4c0c3a952baf33040b36878dab"
+    },
+    "url": "https:\/\/m.facebook.com\/\/checkpoint\/flow\/?checkpoint_created=1&checkpoint_data=%7B%22u%22%3A100000590125569%2C%22t%22%3A1498211109%2C%22step%22%3A4%2C%22n%22%3A%22m2Cr9NnH8Sc%3D%22%2C%22inst%22%3A%221774820429214277%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22p%22%2C%22aid%22%3A%22bjQixpoT8Vg%3D%22%2C%22s%22%3A%22AWXyHc1G9SuUF7Ah%22%2C%22cs%22%3A%5B%5D%7D"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": {
+        "fb_dtsg": "AQEa69Px8w00:AQFoaxTs3uke",
+        "submit": {
+            "This was me": "This Was Me"
+        },
+        "nh": "5486d3cce883ef4c0c3a952baf33040b36878dab"
+    },
+    "url": "https:\/\/m.facebook.com\/\/checkpoint\/flow\/?checkpoint_created=1&checkpoint_data=%7B%22u%22%3A100000590125569%2C%22t%22%3A1498211109%2C%22step%22%3A5%2C%22n%22%3A%22m2Cr9NnH8Sc%3D%22%2C%22inst%22%3A%221774820429214277%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22p%22%2C%22aid%22%3A%22bjQixpoT8Vg%3D%22%2C%22s%22%3A%22AWVoirPzlVLpEIHW%22%2C%22cs%22%3A%5B%5D%7D"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": {
+        "fb_dtsg": "AQGfZo_7xGDl:AQEfrU7ewdtJ",
+        "name_action_selected": "save_device",
+        "submit": {
+            "Continue": "Continue"
+        },
+        "nh": "5486d3cce883ef4c0c3a952baf33040b36878dab"
+    },
+    "url": "https:\/\/m.facebook.com\/\/checkpoint\/flow\/?checkpoint_created=1&checkpoint_data=%7B%22u%22%3A100000590125569%2C%22t%22%3A1498211109%2C%22step%22%3A23%2C%22n%22%3A%22m2Cr9NnH8Sc%3D%22%2C%22inst%22%3A%221774820429214277%22%2C%22f%22%3A193593390684083%2C%22st%22%3A%22p%22%2C%22aid%22%3A%22bjQixpoT8Vg%3D%22%2C%22s%22%3A%22AWUkWM4x9BlWXzNe%22%2C%22cs%22%3A%5B%5D%7D"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/home.php?_rdr"
+}
+
+{
+    "dt": "2017-06-23 16:45:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Windows NT 6.1; rv:51.0) Gecko\/20100101 Firefox\/51.0",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/messages\/read\/?tid=id.970207819744310&gfid=AQA8t5t4cSGit78Y&ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7#fua"
+}
+
+{
+    "dt": "2017-06-23 23:48:2017",
+    "ip": "114.124.239.28",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/photo.php?fbid=1899950246960171&id=100008356429485&set=a.1472285276393339.1073741829.100008356429485&refid=8&_ft_=qid.6434876818101877956%3Amf_story_key.1717191718088652346%3Atop_level_post_id.1899950360293493&__tn__=E"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/home.php?ref_component=mbasic_home_logo&ref_page=%2Fwap%2Fphoto.php&refid=13"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/menu\/bookmarks\/?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/notifications.php?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/a\/notifications.php?redir=%2Fstory.php%3Fstory_fbid%3D470322009967787%26id%3D100009699764707%26comment_id%3D470406723292649&seennotification=1498236936986346&gfid=AQBOPpsKHs33e1lf&refid=48"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/story.php?story_fbid=470322009967787&id=100009699764707&comment_id=470406723292649&_rdr"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/\/a\/notifications.php?redir=%2Fstory.php%3Fstory_fbid%3D1775032992526354%26id%3D100000590125569%26comment_id%3D1775248559171464&seennotification=1498239886859741&gfid=AQCh1QRjzYgkr_ov&refid=48"
+}
+
+{
+    "dt": "2017-06-24 03:53:2017",
+    "ip": "36.73.76.93",
+    "country": "ID",
+    "ua": "Mozilla\/5.0 (Linux; Android 5.1; ASUS_Z00VD Build\/LMY47I) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/58.0.3029.83 Mobile Safari\/537.36",
+    "post": [],
+    "url": "https:\/\/m.facebook.com\/story.php?story_fbid=1775032992526354&id=100000590125569&comment_id=1775248559171464&_rdr"
+}
+
+{
+    "dt": "2017-06-24 10:26:2017",
+    "ip": "51.255.51.5",
+    "country": "FR",
+    "ua": "SocialRankIOBot; http:\/\/socialrank.io\/about",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
+{
+    "dt": "2017-06-24 10:26:2017",
+    "ip": "91.134.137.90",
+    "country": "FR",
+    "ua": "SocialRankIOBot; http:\/\/socialrank.io\/about",
+    "post": [],
+    "url": "https:\/\/m.facebook.com"
+}
+
